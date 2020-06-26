@@ -1,12 +1,12 @@
 
-big show
+The Greatest Project Ever
 =============
 Description
 ===========
 
-Apache license 2.0,Boost Software License 1.0,BSD 2-clause 'Simplified' license
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0),[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC),[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-its a pretty big show
+The gretest project ever doesn't need a description.
 
 Table of Contents
 =================
@@ -22,31 +22,31 @@ Table of Contents
    
 Installation
 ============
-insert the cd
+If you know, you know.
 
 Usage
 =====
-have fun
+See above.
   
 License
 =======
-This application is covered the following license(s): Apache license 2.0,Boost Software License 1.0,BSD 2-clause 'Simplified' license
+This application is covered the following license(s): [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0),[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC),[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 Contributing
 ============
-Please Dont
+You really shouldn't
   
 Tests
 =====
-Just dont
+Doesn't need to be tested.
   
 Questions
 =========
 
-If you have any questios regarding anything regarding this application please reach out to me at either of the following and I will get back to you as soon as I can. 
+If you have any questions regarding anything regarding this application please reach out to me at either of the following and I will get back to you as soon as I can. 
 
-GitHub: efvn
+GitHub: jmh129
 
-Email: feveqf
+Email: james.holding90@gmail.com
 
  Thanks for checking out my page!
