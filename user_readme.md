@@ -1,10 +1,12 @@
 
-
+big show
 =============
 Description
 ===========
-undefined
-s
+
+Apache license 2.0,Boost Software License 1.0,BSD 2-clause 'Simplified' license
+
+its a pretty big show
 
 Table of Contents
 =================
@@ -20,31 +22,31 @@ Table of Contents
    
 Installation
 ============
-s
+insert the cd
 
 Usage
 =====
-s
+have fun
   
 License
 =======
-This application is covered the following license(s): Apache license 2.0
+This application is covered the following license(s): Apache license 2.0,Boost Software License 1.0,BSD 2-clause 'Simplified' license
   
 Contributing
 ============
-s
+Please Dont
   
 Tests
 =====
-d
+Just dont
   
 Questions
 =========
 
 If you have any questios regarding anything regarding this application please reach out to me at either of the following and I will get back to you as soon as I can. 
 
-GitHub: d
+GitHub: efvn
 
-Email: d
+Email: feveqf
 
  Thanks for checking out my page!

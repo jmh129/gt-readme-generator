@@ -1,5 +1,4 @@
 function generateLicense(licenses) {
-  let licenceString = "";
   // add a for loop to loop through array to return license.
   // add arrays for license and badges in this file.
 }
@@ -11,8 +10,8 @@ ${data.title}
 =============
 Description
 ===========
-${data.license}
-${data.description}
+\n${data.license}
+\n${data.description}
 
 Table of Contents
 =================
@@ -49,7 +48,7 @@ ${data.tests}
 Questions
 =========
 
-If you have any questios regarding anything regarding this application please reach out to me at either of the following and I will get back to you as soon as I can. 
+If you have any questions regarding anything regarding this application please reach out to me at either of the following and I will get back to you as soon as I can. 
 
 GitHub: ${data.github_username}
 \nEmail: ${data.email}
