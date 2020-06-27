@@ -10,7 +10,7 @@ ${data.title}
 =============
 Description
 ===========
-\n${data.license}
+\n<img src="https://img.shields.io/badge/license-${data.license}-green"/>
 \n${data.description}
 
 Table of Contents

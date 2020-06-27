@@ -1,12 +1,12 @@
 
-The Greatest Project Ever
+
 =============
 Description
 ===========
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0),[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC),[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img src="https://img.shields.io/badge/license-BSD 3-Clause License-green"/>
 
-The gretest project ever doesn't need a description.
+
 
 Table of Contents
 =================
@@ -22,31 +22,31 @@ Table of Contents
    
 Installation
 ============
-If you know, you know.
+
 
 Usage
 =====
-See above.
+
   
 License
 =======
-This application is covered the following license(s): [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0),[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC),[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This application is covered the following license(s): BSD 3-Clause License
   
 Contributing
 ============
-You really shouldn't
+
   
 Tests
 =====
-Doesn't need to be tested.
+
   
 Questions
 =========
 
 If you have any questions regarding anything regarding this application please reach out to me at either of the following and I will get back to you as soon as I can. 
 
-GitHub: jmh129
+GitHub: 
 
-Email: james.holding90@gmail.com
+Email: 
 
  Thanks for checking out my page!
