@@ -16,10 +16,8 @@ Clone this repo to your local machine using https://github.com/jmh129/gt-readme-
 ### Usage
 The application is for anyone to use to quickly generate a readme for their projects. The user will need to navigate in their terminal to the folder the files are in. Then, enter in node index.js. The prompts will appear in the terminal and the user can give its input. After the prompts have been answered a seperate file named user_readme.md will appear. 
 
-### Example
-<video width="320" height="240" controls>
-  <source src="media/readme-generator-example.mov" type="video/mp4">
-</video>
+Example Demo: https://drive.google.com/drive/u/0/folders/16CeNK1IQpSwXfahQ3K4QRd4-mlOR6XYj
+Example Output: https://github.com/jmh129/gt-readme-generator/blob/master/user_readme.md
 
 ### Credits
 Credit to the Georgia Institute of Technology Coding Bootcamp for the instruction for the assignemnt. 
