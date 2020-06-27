@@ -35,7 +35,7 @@ ${data.usage}
   
 License
 =======
-This application is covered the following license(s): ${data.license}
+This application is covered the following license: ${data.license}
   
 Contributing
 ============
