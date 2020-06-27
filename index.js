@@ -43,7 +43,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Please enter any contribution guidlines.",
+    message: "Please enter any contribution guidelines.",
     name: "contributing",
   },
   {
